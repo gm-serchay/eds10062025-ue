@@ -5,6 +5,6 @@
     "/content/hsc10062025-eds-ue-overview/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/hsc10062025-eds-ue-overview/"
   ]
 }
