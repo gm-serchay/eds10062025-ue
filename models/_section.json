@@ -45,7 +45,6 @@
       "components": [
         "text",
         "image",
-        "button",
         "title",
         "hero",
         "cards",
